@@ -1,0 +1,28 @@
+name: Peterbian
+favicon: null
+layout_spectrum: 0.8218864928930998
+typography_spectrum: 0.6246621487662196
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6484525676351041
+  lightness: 0.4999749211128801
+  saturation: 0.6281649733427912
+  rhythmicContrast: 0.8365605366416276
+purpose: []
